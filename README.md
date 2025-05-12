@@ -1,5 +1,5 @@
 # Customer Churn Prediction & Business Insights Dashboard
-Status: 🛠️ In Progress
+Status: In Progress (Milestone 2)
 
 Finish By: June 2025
 
@@ -20,9 +20,13 @@ This project aims to analyze customer behavior and predict churn using a real-wo
 - Version Control: Git + GitHub
 
 ##  Planned Milestones:
- Week 1: Data cleaning and exploratory analysis
- Week 2: Model building and Tableau dashboard
- Week 3: Final documentation and GitHub polish
+ Milestone 1: Data cleaning and exploratory analysis
+ 
+ Milestone 2: Model building 
+ 
+ Milestone 3: Tableau Dashboard
+ 
+ Milestone 4 : Final documentation and GitHub polish
 ##  Key Takeaways (To Be Finalized)
 - Insights into factors influencing customer retention
 - Machine learning model performance summary
