@@ -23,23 +23,6 @@ This project analyzes a real‑world telecom dataset to understand why customers
    - Saved a processing pipeline + model (`churn_pipeline.pkl`)  
    - Generated a final predictions file (`dashboard_data.csv`) with churn probabilities and flags  
 
----
-
-## Project Structure
-
-dataset/
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv # Original raw data
-├── cleaned_telco_churn.csv # Cleaned data for modeling
-└── dashboard_data.csv # Final churn scores & binary flags
-
-models/
-└── churn_pipeline.pkl # Serialized data pipeline + model
-
-notebooks/
-├── 01_EDA.ipynb # Data cleaning & exploratory analysis
-├── 02_Modeling.ipynb # Model training & evaluation
-└── test.ipynb # Sanity checks & validation
-
 
 
 ---
